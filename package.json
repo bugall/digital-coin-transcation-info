@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/bugall/digital-coin-transcation-info#readme",
   "dependencies": {
-    "babel-polyfill": "^6.26.0",
-    "puppeteer": "^1.3.0"
+    "babel-polyfill": "6.26.0",
+    "moment": "^2.22.1",
+    "puppeteer": "1.3.0",
+    "sequelize": "^4.37.6"
   }
 }
